@@ -1,4 +1,12 @@
 ### Hi there 👋
+
+My name is Ali Ragimov, currently I'm frontend developer at [online-cinema Okko](https://okko.tv/)
+
+Here are just a few points 😉
+- 🔭 I’m currently working on [init-typescript-app](https://github.com/barinbritva/init-typescript-app)
+- 🌱 I’m currently learning [TypeScript](https://github.com/Microsoft/TypeScript) advanced practices
+- 🤔 I’m looking for help with building cutomized [Chromium](https://github.com/chromium/chromium) for using it in [Electron](https://github.com/electron/electron)
+
 ![](https://github-readme-stats.vercel.app/api?username=barinbritva&show_icons=true)
 
 <!--
