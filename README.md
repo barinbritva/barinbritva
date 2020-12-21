@@ -7,7 +7,7 @@ Here are just a few points 😉
 - 🌱 I’m currently learning [TypeScript](https://github.com/Microsoft/TypeScript) advanced practices
 - 🤔 I’m looking for help with building cutomized [Chromium](https://github.com/chromium/chromium) for using it in [Electron](https://github.com/electron/electron)
 
-[LinkedIn](https://www.linkedin.com/in/barinbritva) | [Medium](https://medium.com/@barinbritva) | [Stack Overflow](https://stackoverflow.com/users/3359277/barinbritva)
+[Twitter](https://twitter.com/barinbritva) | [LinkedIn](https://www.linkedin.com/in/barinbritva) | [Medium](https://medium.com/@barinbritva) | [Stack Overflow](https://stackoverflow.com/users/3359277/barinbritva)
 
 ![](https://github-readme-stats.vercel.app/api?username=barinbritva&show_icons=true)
 
