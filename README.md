@@ -3,7 +3,7 @@
 My name is Ali Ragimov, currently I'm frontend developer at [online-cinema Okko](https://okko.tv/)
 
 Here are just a few points 😉
-- 🔭 I’m currently working on [init-typescript-app](https://github.com/barinbritva/init-typescript-app) lib, and [LinguaPlayer](http://linguaplayer.barinbritva.com/) app
+- 🔭 I’m currently working on [init-typescript-app](https://github.com/barinbritva/init-typescript-app) lib and [LinguaPlayer](http://linguaplayer.barinbritva.com/) app
 - 🌱 I’m currently learning [TypeScript](https://github.com/Microsoft/TypeScript) advanced practices, [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 - 🤔 I’m looking for help with building cutomized [Chromium](https://github.com/chromium/chromium) for using it in [Electron](https://github.com/electron/electron)
 
