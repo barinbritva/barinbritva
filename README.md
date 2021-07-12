@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ali Ragimov, currently I'm frontend developer at [online-cinema Okko](https://okko.tv/)
+My name is Ali Ragimov, JavaScript Software Engineer.
 
 Here are just a few points 😉
 - 🔭 I’m currently working on [init-typescript-app](https://github.com/barinbritva/init-typescript-app) lib and [LinguaPlayer](http://linguaplayer.barinbritva.com/) app
